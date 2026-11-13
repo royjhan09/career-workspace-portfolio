@@ -42,7 +42,7 @@ All screenshots use made-up data.
 
 More in [docs/product.md](docs/product.md).
 
-## How it was built: honestly
+## How it was built
 
 **I built Career Workspace with Claude Code (Anthropic's AI coding agent) as the main implementer. Claude wrote almost all of the code.**
 
